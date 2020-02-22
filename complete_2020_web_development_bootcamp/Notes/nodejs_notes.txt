@@ -1,0 +1,18 @@
+- backend options available are:
+		php
+		ruby on rails
+		java
+		asp.net
+		nodejs
+		python
+		
+- Why nodejs?
+	  1.we know javascript in frontend and now we can use the same to create backend
+	  2.no need to learn new language
+	  3.node is superfast, so helps us to build scalable applications
+	  4.js in browser is limited in the sense but it only been able to interact
+	    with browser, request information from the browser etc but cannot access things
+	    like users file system, networking person etc
+	  5. nodejs comes to helps in such case when we want to perform tasks like access file system etc
+	  
+  

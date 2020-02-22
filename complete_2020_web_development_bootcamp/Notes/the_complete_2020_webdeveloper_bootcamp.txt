@@ -1,0 +1,29 @@
+Bootstrap::
+
+59,60 video starting
+
+1. bootstrap is a frontend library or framework.
+2. bootstrap is responsive(respond to viewports)  -- adapatable layout
+3. bootstrap comes with prestyled elements that we can drop into our code with minimal ease.
+4. go to codeply and type some code with and without using bootstrap : https://www.codeply.com/p/aEzbyqLhD7
+5. download bootstarp 4.0 locally and examine templates and examples give, 
+6. example online for references https://getbootstrap.com/docs/4.0/examples/
+7. there are 3 ways of using bootstrap
+   -- use cdn
+   -- take starter template from bootstrap website
+   -- download locally and use relative path pointing to bootstrap source in html
+8. of above methods  use cdn approach because it will catch the page in browser, 3rd methods will not cache the image as it is from the same domain
+9. https://www.cloudflare.com/en-in/network/ use cdn to deliver from the nearest datacenter.
+10. browser will cache the files and there is more probability that other sites also use bootstrap and can fetch the same from browser cache instead of from website
+11. <link rel="stylesheet" src="src/bootstrap.css" this approach has a downside that browser always loads relative paths from browser instead of the cache.
+
+61 video web designing
+
+wireframing   
+ -- https://sneakpeekit.com/
+ -- https://balsamiq.cloud
+high fidelity mockup (downside can stuck in choosing what color would be good etc)  use photoshop or illustrator
+optional step - prototype  (or a high animated version of our website)       
+	check discover the world's top designers  and creatives  : https://dribbble.com/shots/popular/illustration
+instead search for other website and check for best ui patterns http://ui-patterns.com/
+
